@@ -10,7 +10,7 @@ Go to the project's root folder with a terminal , then
 The usage of the executable is as follows
 
 ```bash
-  ./push_swap <your list of integers> (Ex : 1 59 -9 47 -665 -78 42 21 2)
+ $ ./push_swap <your list of integers> (Ex : 1 59 -9 47 -665 -78 42 21 2)
 ```
 
 ## Output
