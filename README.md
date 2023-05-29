@@ -5,7 +5,7 @@ Push_swap is a project where you must sort given integers with the least possibl
 Go to the project's root folder with a terminal , then
 
 ```bash
-  make
+ $ make
 ```
 The usage of the executable is as follows
 
@@ -14,7 +14,7 @@ The usage of the executable is as follows
 ```
 
 ## Output
-The result should look like this 
+The result should in the terminal look like this, these are the commands that have been executed to sort the given list above
 
 ```bash
 pb
