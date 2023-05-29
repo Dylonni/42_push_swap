@@ -14,7 +14,7 @@ The usage of the executable is as follows
 ```
 
 ## Output
-The result should in the terminal look like this, these are the commands that have been executed to sort the given list above
+The result should in the terminal look like this, these are the instructions that have been executed to sort the given list above
 
 ```bash
 pb
