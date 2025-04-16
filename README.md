@@ -1,5 +1,17 @@
 # 42_push_swap
-Push_swap is a project where you must sort given integers with the least possible movements/instructions
+Push_swap is a project where you must sort given integers with the least possible movements/instructions.  
+The sorting process requires two stacks , A and B. The instructions to sort them are listed as follows :  
+
+```bash
+ pb : push the first integer in stack A to stack B
+ pa : push the first integer in stack B to stack A
+ rb : rotate the stack B (meaning the first integer of the stack will become last)
+ ra : rotate the stack A (meaning the first integer of the stack will become last)
+ rrb: reverse rotate the stack B (meaning the last integer of the stack B will become first)
+ rra: reverse rotate the stack A (meaning the last integer of the stack A will become first)
+ sa : swap the first two integers of the stack A
+ sb : swap the first two integers of the stack B
+```
 
 ## How to use
 Go to the project's root folder with a terminal , then
